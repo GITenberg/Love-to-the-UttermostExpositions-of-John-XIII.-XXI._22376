@@ -1,0 +1,31 @@
+_repo: Love-to-the-UttermostExpositions-of-John-XIII.-XXI._22376
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meyer, F. B. (Frederick Brotherton)
+    alias: Meyer, Frederick Brotherton
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '25296'
+    url: http://www.gutenberg.org/2009/agents/25296
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Brotherton_Meyer
+description: ''
+gutenberg_issued: '2007-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22376'
+  lccn: '99000566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. John -- Criticism, interpretation, etc.'
+title: 'Love to the Uttermost
+
+  Expositions of John XIII.-XXI.'
+url: http://www.gutenberg.org/ebooks/22376
